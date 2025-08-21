@@ -33,9 +33,9 @@
             // 
             // bt_teste
             // 
-            bt_teste.Location = new Point(282, 245);
+            bt_teste.Location = new Point(241, 246);
             bt_teste.Name = "bt_teste";
-            bt_teste.Size = new Size(164, 34);
+            bt_teste.Size = new Size(246, 34);
             bt_teste.TabIndex = 0;
             bt_teste.Text = "texto qualquer";
             bt_teste.UseVisualStyleBackColor = true;
